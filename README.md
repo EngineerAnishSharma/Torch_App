@@ -1,4 +1,4 @@
-# torch
+# Torch Lite
 
 A new Flutter project.
 

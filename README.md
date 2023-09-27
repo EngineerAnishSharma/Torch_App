@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+Welcome to TorchOnOff, a simple Flutter-based flashlight app that allows you to turn your device's flashlight on and off with ease.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flashlight Control**: Easily turn your device's flashlight on and off with a single tap.
+- **User-Friendly Interface**: The app offers a straightforward and intuitive interface for quick access to the flashlight.
+- **Lightweight**: Minimalistic design and lightweight app size for fast and efficient performance.
